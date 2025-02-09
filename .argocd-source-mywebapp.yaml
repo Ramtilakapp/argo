@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - ramdocker321/mywebapp:v1.1
